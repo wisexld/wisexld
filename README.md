@@ -11,7 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 
 ### About Me
 
@@ -21,7 +20,7 @@
 
 Most of my projects are private, so there is no much public repositories at all.
 
----
+##
 
 ### 🛠️ Languages and Tools :
 
@@ -43,8 +42,7 @@ Most of my projects are private, so there is no much public repositories at all.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
----
+##
 
 ### 🔥 My Stats:
 
