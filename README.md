@@ -1,15 +1,22 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47yzq9nzh8gb6lp6ut12n394gqldqc9kbb94med4m9&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=wisexld&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h2 align="center">
+  Yo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ---
 
-- 👋 Yo, I’m @wisexld
-- 💞️ I would be gladly to collaborate on any kind of projects
+### About Me
+
+- :man_technologist: I'm a 21yo computer scientist, you can call me "Wise".
+- :computer:  I would gladly collaborate on your projects.
 - 📫 You can reach me on Discord -> Wise'7#5167
 
 Most of my projects are private, so there is no much public repositories at all.
@@ -42,5 +49,5 @@ Most of my projects are private, so there is no much public repositories at all.
 ### 🔥 My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wisexld&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisexld&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
