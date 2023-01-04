@@ -43,7 +43,3 @@ Most of my projects are private, so there is no much public repositories at all.
 </div>
 
 ##
-
-### 🔥 My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisexld&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
