@@ -16,7 +16,7 @@
 
 - :man_technologist: I'm a ℤ yo computer scientist, you can call me "Wise".
 - :computer:  I would gladly collaborate on your projects.
-- 📫 You can reach me on Discord -> Wise'7#5167
+- 📫 You can reach me on Discord -> "@ohdeath."
 
 Most of my projects are private, so there is no much public repositories at all.
 
